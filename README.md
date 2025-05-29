@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm Naveen, a first-year undergraduate Computer Science student at the University of California, Santa Cruz. My interests are currently in small-scale systems to solve everyday problems and augmenting the human condition with the power of computing. 
+
+🔗 I've included a [link](https://nchalla3.github.io/notes/) to a Quartz page where I host my notes on software engineering, productivity, and all things I find interesting
+
+
 <!--
 **nchalla3/nchalla3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
